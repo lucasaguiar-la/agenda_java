@@ -24,7 +24,7 @@ public class DAO {
 			return null;
 		}
 	}
-		// Teste de conexão
+	/** Teste de conexão
 		public void testeConexao() {
 			try {
 				Connection con =  conectar();
@@ -33,5 +33,5 @@ public class DAO {
 			} catch (Exception e) {
 				System.out.println(e);
 			}
-		}
+		}**/
 	}
